@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year undergraduate at IIT Kharagpur.<br>I'm looking to collaborate on Open Source projects.<br>I'm looking for help with CI/CD operations.<br>I'm currently learning Rust and Bash Scripting.<br>Ask me about Django, Flask, Linux, Python, and JavaScript.<br>
+I'm a final undergraduate at IIT Kharagpur.<br> I want to collaborate on Open Source projects.<br>I'm looking for help with CI/CD operations.<br>I'm currently learning Rust and Bash Scripting.<br>Ask me about Django, Flask, Linux, Python, and JavaScript.<br>
 
 
 ## 🌐 Socials:
