@@ -13,4 +13,4 @@ I like to talk about art, life, and tech.
 ---
 [![](https://visitcount.itsvg.in/api?id=saurzv&icon=0&color=5)](https://visitcount.itsvg.in)
 ---
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/656ec3415145316d25bb7994?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/656ec3415145316d25bb7994?variant=dark" alt="roadmap.sh"/></a>
